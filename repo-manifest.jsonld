@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-anthropic/commit/b66cdf112c7d9da30edff581c37de64d796e617e",
       "git:hexsha": "b66cdf112c7d9da30edff581c37de64d796e617e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.30"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.30",
+      "repolex:parsedAt": "2026-10-12T16:36:01.553630+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-anthropic/commit/e50aeaf20fb2bbe4f4b2e5b06f623bbede37b3a9",
